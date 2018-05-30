@@ -16,5 +16,7 @@
 	- Ảnh chụp khóa JS: https://github.com/HongHoiLe/INT2208-4-2018/blob/master/LeHongHoi/BaiTapCaNhan/screencapture-codecademy-learn-learn-javascript-2018-05-15-21_37_49.png
 	
 * Chấm điểm chéo:
+3. Người chấm: Đỗ Quang Hải. Điểm 9.
+	NX: Tự học đủ, tham gia tốt thuyết trình và bài tập nhóm.
 	
 
